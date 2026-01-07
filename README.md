@@ -1,4 +1,4 @@
-# 💳 Payment Service - Microsserviço de Pagamentos
+# Payment Service - Microsserviço de Pagamentos
 
 ![Java](https://img.shields.io/badge/Java-17+-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen)
@@ -7,7 +7,7 @@
 
 Um microsserviço de pagamentos completo com suporte a múltiplos gateways (Stripe, PagSeguro) e métodos de pagamento (Cartão, PIX, Boleto).
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - ✅ **Processamento de pagamentos** com Stripe
 - ✅ **Múltiplos métodos**: Cartão, PIX, Boleto
@@ -18,7 +18,7 @@ Um microsserviço de pagamentos completo com suporte a múltiplos gateways (Stri
 - ✅ **API REST** documentada
 - ✅ **Docker** pronto para uso
 
-## 🚀 Começando Rápido
+## Começando Rápido
 
 ### Pré-requisitos
 - Java 17+
